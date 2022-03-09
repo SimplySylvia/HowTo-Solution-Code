@@ -27,7 +27,7 @@ For us to make a connection to the original repo we will need to add a new url b
 
 In Terminal: 
 ```bash
-git remote add url upstream [url]
+git remote add upstream [url]
 ```
 > NOTE: replace [url] with the url of the repo you forked from. I.E. `hackreactor/rfc2202-toy-problems` not `dalton/rfc2202-toy-problems`
 
